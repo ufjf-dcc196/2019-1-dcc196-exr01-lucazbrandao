@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EXR1</string>
+    <string name="primeiro_nome">Nome</string>
+    <string name="obter_nome">Obter Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome_completo">Nome Completo</string>
 </resources>
